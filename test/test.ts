@@ -3,7 +3,7 @@ import { Reactions, Zalo } from "../src/index.js";
 import { MessageType } from "../src/models/Message.js";
 const zalo = new Zalo(
     {
-        cookie: "{'_ga': 'GA1.2.903196771.1728571096', '_gid': 'GA1.2.797667413.1728571096', '_zlang': 'vn', 'zpsid': '89NB.423101413.0.3a-Lm5Ks27omDJ1bMJO8V215UaXd1JbCP08vJtgsuTsIz1rHL4FXUp8s27m', 'zpw_sek': 'dqPI.423101413.a0.XWYQT-wpi-KBi8lypxEpvPMHrexCYP6zeyk5iC67mPISoi3NdUJHhwVZXQw_Zex7avmp34zqSV33iiKCwTIpvG', '__zi': '3000.SSZzejyD6zOgdh2mtnLQWYQN_RAG01ICFjIXe9fEM8WyckoacKbOYt6VwgNTJLY8Vfpgh3Cn.1', '__zi-legacy': '3000.SSZzejyD6zOgdh2mtnLQWYQN_RAG01ICFjIXe9fEM8WyckoacKbOYt6VwgNTJLY8Vfpgh3Cn.1', 'app.event.zalo.me': '6417841313632871577'}",
+        cookie: {'_ga': 'GA1.2.903196771.1728571096', '_gid': 'GA1.2.797667413.1728571096', '_zlang': 'vn', 'zpsid': '89NB.423101413.0.3a-Lm5Ks27omDJ1bMJO8V215UaXd1JbCP08vJtgsuTsIz1rHL4FXUp8s27m', 'zpw_sek': 'dqPI.423101413.a0.XWYQT-wpi-KBi8lypxEpvPMHrexCYP6zeyk5iC67mPISoi3NdUJHhwVZXQw_Zex7avmp34zqSV33iiKCwTIpvG', '__zi': '3000.SSZzejyD6zOgdh2mtnLQWYQN_RAG01ICFjIXe9fEM8WyckoacKbOYt6VwgNTJLY8Vfpgh3Cn.1', '__zi-legacy': '3000.SSZzejyD6zOgdh2mtnLQWYQN_RAG01ICFjIXe9fEM8WyckoacKbOYt6VwgNTJLY8Vfpgh3Cn.1', 'app.event.zalo.me': '6417841313632871577'},
         imei: "038366e2-c323-47f8-b250-d196e14d1420-16453d6e2683b8800ded2a27c7f595d9",
         userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",
         language: "vi",
